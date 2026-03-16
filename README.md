@@ -133,13 +133,13 @@ cat plans/active/20260316-새기능/overview.md
 
 ---
 
-## eazy-claude-harness와 함께 사용
+## ez-claude-harness와 함께 사용
 
-[eazy-claude-harness](https://github.com/Giwoong-ryu/eazy-claude-harness)와 함께 쓰면 전체 개발 흐름을 커버합니다.
+[ez-claude-harness](https://github.com/Giwoong-ryu/ez-claude-harness)와 함께 쓰면 전체 개발 흐름을 커버합니다.
 
 ```
-[EazyPlans]  Plan Mode → research.md → overview.md → GATE -1
-[eazy-claude-harness]  GATE → DMAD → Code → sim → Check → Fix
+[ez-plans]          Plan Mode → research.md → overview.md → GATE -1
+[ez-claude-harness] GATE → DMAD → Code → sim → Check → Fix
 ```
 
 ---
